@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "c:\\MinGW\\bin\\mingw32-g++.exe",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
